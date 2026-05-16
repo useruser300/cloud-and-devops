@@ -25,6 +25,8 @@ Developer updates code
 → Updated application runs
 ```
 
+![High-Level CI/CD Pipeline Overview](images/ci-cd-pipeline.png)
+
 ---
 
 ## The Problem That CD Solves
